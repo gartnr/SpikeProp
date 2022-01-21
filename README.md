@@ -1,6 +1,6 @@
 # SpikePropSNN
 My take on the SpikeProp supervised learning algorithm for Spiking Neural Networks in python due to Bohte et al. (Error-backpropagation in temporally encoded networks of
-spiking neurons 2002)
+spiking neurons (2002))
 
 The SNN class is defined in SNNetwork.py. The network consists of three types of neurons, that are defined in Neuron.py. SpikingNeuron objects have connections to previous layer neurons defined in the class Connection in Connections.py.
 
